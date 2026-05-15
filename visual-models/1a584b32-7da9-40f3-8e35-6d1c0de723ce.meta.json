@@ -1,0 +1,19 @@
+{
+  "iri": "b11fec9a-ebb7-452b-9a8f-94036f5761dd",
+  "projectIri": "1a584b32-7da9-40f3-8e35-6d1c0de723ce",
+  "types": [
+    "http://dataspecer.com/resources/local/visual-model"
+  ],
+  "userMetadata": {
+    "label": {
+      "en": "Main view"
+    },
+    "description": {
+      "en": "View model for the vocabulary"
+    }
+  },
+  "metadata": {},
+  "_version": 1,
+  "_exportVersion": 2,
+  "_exportedBy": "http://localhost:3100"
+}
